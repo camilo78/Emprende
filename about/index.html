@@ -109,7 +109,7 @@
 
   </head>
 
-  <body class="layout--posts">
+  <body class="layout--archive-simple">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Saltar a navegación principal</a></li>
@@ -129,7 +129,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/"><img src="/assets/images/logo-white.png" alt="Emprende en la Web"></a>
+          <a class="site-logo" href="/"><img src="/assets/images/logo.png" alt="Emprende en la Web"></a>
         
         <a class="site-title" href="/">
           Emprende en la Web
@@ -197,7 +197,7 @@
       
         <p>
         
-          <a href="/services/" class="btn btn--light-outline btn--large">Servicios</a>
+          <a href="/services/" style="border: 2px solid #47B872; font-family: 'Quicksand', sans-serif !important;" class="btn btn--light-outline btn--large">Servicios</a>
         
       
     </div>
@@ -235,25 +235,12 @@
   
 
 
-<div id="main" role="main">
-  
+<div  role="main">
 
-
-  <div class="archive">
     
     
 
-
-<ul class="taxonomy__index">
-  
-  
-</ul>
-
-
-
-
-
-  </div>
+ 
 </div>
     </div>
 
@@ -273,9 +260,166 @@
     <div id="footer" class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
+<img src="/assets/images/emprende logo.svg" width="300" style="margin-top:-15px" alt="">
+<hr class="gradient">
+<div class="row text-footer ">
+  <div class="col-lg-3">
+    <p>Nuestros desarrollos son 100% a medida del negocio y de los procesos de cada empresa. Como socios tecnológicos,
+      la relación con nuestros clientes es a largo plazo: los acompañamos en cada etapa de su empresa con propuestas
+      superadoras.</p>
+  </div>
+  <div class="col-lg-3">
+    <p class="footer-title">CONTACTO</p>
+    <a class="a-footer" href="mailto:emprende.dev@gmail.com"><i class="fas fa-envelope fa-fw" style="color:#47b872"></i>
+      emprende.dev@gmail.com</a><br>
+    <a class="a-footer" href="tel:+504 8788 6032"><i class="fas fa-phone fa-fw" style="color:#47b872"></i>+504 8788
+      6032</a>
+  </div>
+  <div class="col-lg-3">
+    <p class="footer-title">SERVICIOS</p>  
+    <a class="a-footer" href="/services/"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Aplicaciones
+      Web</a><br>
+    <a class="a-footer" href="/services/"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Apps Web
+      Progresivas</a><br>
+    <a class="a-footer" href="/services/"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Diseño
+      Web</a><br>
+    <a class="a-footer" href="/services/"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Rediseño
+      Web</a><br>
+    <a class="a-footer" href="/services/"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Diseño
+      Gráfico</a><br>
+    <a class="a-footer" href="/services/"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Social
+      Media</a><br>
+      </div>
+    <div class="col-lg-3">
+      <p style="color:#ffc20e; font-weight: 700; font-size: 20px;" >¡TU AGENCIA DESARROLLO WEB Y MARKETING DIGITAL!</p>
+      <p>Déjanos tus datos y te llamamos</p>
+      <div class="text-center">
+      <a href="/contact/" class="btn btn--light-outline btn--large" style="margin: 0 auto; border-color: #ffc20e;text-decoration: none;">¡TE LLAMAMOS!</a>
+    </div>
+    </div>
+</div>
 
 <!-- end custom footer snippets -->
-        <div class="page__footer-follow">
+
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+<script>
+  /* ---- particles.js config ---- */
+
+  particlesJS("particles-js", {
+    "particles": {
+      "number": {
+        "value": 110,
+        "density": {
+          "enable": true,
+          "value_area": 800
+        }
+      },
+      "color": {
+        "value": "#ffc20e"
+      },
+      "shape": {
+        "type": "circle",
+        "stroke": {
+          "width": 0,
+          "color": "#000000"
+        },
+        "polygon": {
+          "nb_sides": 5
+        },
+        "image": {
+          "src": "img/github.svg",
+          "width": 100,
+          "height": 100
+        }
+      },
+      "opacity": {
+        "value": 1,
+        "random": false,
+        "anim": {
+          "enable": false,
+          "speed": 1,
+          "opacity_min": 0.1,
+          "sync": false
+        }
+      },
+      "size": {
+        "value": 5,
+        "random": true,
+        "anim": {
+          "enable": false,
+          "speed": 40,
+          "size_min": 0.1,
+          "sync": false
+        }
+      },
+      "line_linked": {
+        "enable": true,
+        "distance": 150,
+        "color": "#47B872",
+        "opacity": 1,
+        "width": 1.5
+      },
+      "move": {
+        "enable": true,
+        "speed": 2,
+        "direction": "none",
+        "random": false,
+        "straight": false,
+        "out_mode": "out",
+        "bounce": false,
+        "attract": {
+          "enable": false,
+          "rotateX": 600,
+          "rotateY": 1200
+        }
+      }
+    },
+    "interactivity": {
+      "detect_on": "canvas",
+      "events": {
+        "onhover": {
+          "enable": true,
+          "mode": "grab"
+        },
+        "onclick": {
+          "enable": true,
+          "mode": "push"
+        },
+        "resize": true
+      },
+      "modes": {
+        "grab": {
+          "distance": 140,
+          "line_linked": {
+            "opacity": 1
+          }
+        },
+        "bubble": {
+          "distance": 400,
+          "size": 40,
+          "duration": 2,
+          "opacity": 8,
+          "speed": 3
+        },
+        "repulse": {
+          "distance": 200,
+          "duration": 0.4
+        },
+        "push": {
+          "particles_nb": 4
+        },
+        "remove": {
+          "particles_nb": 2
+        }
+      }
+    },
+    "retina_detect": true
+  });
+
+</script>
+        <hr class="gradient">
+<div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Seguir:</strong></li>
@@ -303,7 +447,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2021 Emprende en la Web. Desarrollado con <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> .</div>
+<div class="page__footer-copyright" style="margin-bottom: -15px; margin-top: -10px;">&copy; 2021 Emprende en la Web. Desarrollado con <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> .</div>
 
       </footer>
     </div>
