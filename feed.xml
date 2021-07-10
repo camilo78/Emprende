@@ -1,17 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://emprende.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://emprende.dev/" rel="alternate" type="text/html" /><updated>2021-07-09T10:35:23-06:00</updated><id>https://emprende.dev/feed.xml</id><title type="html">Emprende en la Web</title><subtitle>Aplicaciones a medida y Webs para Emprender.</subtitle><author><name>Camilo Alvarado</name></author><entry><title type="html">Un Manifiesto de los Nativos Digitales</title><link href="https://emprende.dev/cultura%20libre/un-manifiesto-de-los-nativos-digitales/" rel="alternate" type="text/html" title="Un Manifiesto de los Nativos Digitales" /><published>2021-07-09T00:00:00-06:00</published><updated>2021-07-09T00:00:00-06:00</updated><id>https://emprende.dev/cultura%20libre/un-manifiesto-de-los-nativos-digitales</id><content type="html" xml:base="https://emprende.dev/cultura%20libre/un-manifiesto-de-los-nativos-digitales/">&lt;figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://emprende.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://emprende.dev/" rel="alternate" type="text/html" /><updated>2021-07-10T00:37:34-06:00</updated><id>https://emprende.dev/feed.xml</id><title type="html">Emprende en la Web</title><subtitle>Aplicaciones a medida y Webs para Emprender.</subtitle><author><name>Emprende en la Web</name></author><entry><title type="html">Tendencias únicas de diseño web para 2021</title><link href="https://emprende.dev/Dise%C3%B1o%20Web/Tendencias-%C3%BAnicas-de-dise%C3%B1o-web-para-2021" rel="alternate" type="text/html" title="Tendencias únicas de diseño web para 2021" /><published>2021-07-09T00:00:00-06:00</published><updated>2021-07-09T00:00:00-06:00</updated><id>https://emprende.dev/Dise%C3%B1o%20Web/tendencias-unicas-de-dise%C3%B1o-web-para-2021</id><content type="html" xml:base="https://emprende.dev/Dise%C3%B1o%20Web/Tendencias-%C3%BAnicas-de-dise%C3%B1o-web-para-2021">&lt;p&gt;Echa un vistazo a estas 21 tendencias de diseño web para 2021 que darán forma a la forma en que diseñamos y mejoramos la forma en que las personas experimentan la web.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts-images/tendencias2021.jpeg&quot; alt=&quot;Tendencias&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;El 2020 no fue fácil. Con sus galones de desinfectante para manos, las incómodas reuniones de Zoom y la inminente ansiedad de la incertidumbre, todos nos sentimos un poco agotados. A pesar de las circunstancias, todos hicimos nuestro mejor esfuerzo para superarlo. Muchos de nosotros nos tomamos el tiempo para aprender nuevas habilidades de diseño. Y algunos de nosotros solo nos devoramos el catalogo de series. Todos tuvimos formas diferentes de afrontar el encierro.&lt;/p&gt;
+
+&lt;p&gt;Cuando se trata de diseño, estamos atentos a las tendencias interminables en la web. Después de hablar con el equipo de &lt;strong&gt;Emprende en la Web&lt;/strong&gt; reunimos una lista de algunas de las tendencias de diseño web que esperamos ver en 2021.&lt;/p&gt;
+
+&lt;h2 id=&quot;fuentes-retro&quot;&gt;Fuentes Retro&lt;/h2&gt;
+
+&lt;p&gt;Hemos visto muchas cosas antiguas volverse geniales de nuevo y luego, y luego quedar en desuso. Piense en pantalones acampanados y los colores pastel.&lt;/p&gt;
+
+&lt;p&gt;Las fuentes retro han experimentado este mismo auge en su popularidad, y muchos diseños con tipografía vintage no han envejecido bien.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, la tipografía retroceso ha experimentado un pequeño resurgimiento. No vemos las mismas fuentes cansadas. Más bien, la estilización y un poco de arte están reinventando lo que pueden ser las fuentes retro.&lt;/p&gt;
+
+&lt;p&gt;Vemos esta fusión de lo antiguo y lo nuevo en la página de la promoción del  &lt;a href=&quot;https://carnival.withspotify.com/&quot;&gt;Carnaval de Spotify&lt;/a&gt;. En lugar de sentirse rancio y cliché, dan nueva vida a las fuentes tradicionales en negrita con un poco de experimentación. Este es un buen ejemplo de cómo tomar fuentes tradicionales y darles un toque moderno y fresco, mientras se mantiene la legibilidad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts-images/fuentes_retro.jpeg&quot; alt=&quot;Fuentes Retro&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hay una sensación de retro-futurismo aquí en este sitio web para la empresa de planificación de eventos &lt;a href=&quot;https://www.goliath-entertainment.com/&quot;&gt;Goliath Entertainment&lt;/a&gt;. La tipografía atrevida da un guiño al pasado sin dejar de sentirse muy del momento.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts-images/retro-futurismo.jpeg&quot; alt=&quot;retro futurismo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A medida que avanza el 2021, esperamos ver una reinvención tipográfica más creativa.&lt;/p&gt;
+
+&lt;h2 id=&quot;animaciones-con-parallax-scroll&quot;&gt;Animaciones con parallax scroll&lt;/h2&gt;
+
+&lt;p&gt;Los efectos de parallax scroll han sido una tendencia en el diseño de sitios web durante años, y en 2021 se espera ver exploraciones más sutiles y creativas de lo que se puede lograr con el.&lt;/p&gt;
+
+&lt;p&gt;Recuerde que demasiado movimiento en los efectos del paralaje puede ser perjudicial para las personas con trastornos vestibulares porque la ilusión de profundidad y movimiento puede provocar desorientación y mareos. Aquí hay algunas pautas que vemos que más diseñadores tienen en cuenta para garantizar que incorporen el paralaje de manera mínima y sin causar daño:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No permita que los efectos de paralaje distraigan la atención de la información importante&lt;/li&gt;
+  &lt;li&gt;No le dificulte al usuario completar una tarea importante&lt;/li&gt;
+  &lt;li&gt;Mantenga el número de efectos de paralaje al mínimo&lt;/li&gt;
+  &lt;li&gt;Minimice la cantidad de movimiento de paralaje dentro de cada instancia&lt;/li&gt;
+  &lt;li&gt;Restringir los efectos de paralaje en un área pequeña de la pantalla&lt;/li&gt;
+  &lt;li&gt;Incluya una opción para que los usuarios desactiven los efectos de paralaje.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La web-portafolio de &lt;a href=&quot;https://www.byalicelee.com/&quot;&gt;Alice Lee&lt;/a&gt; usa efectos parallax que responden a la posición del mouse para darle vida a su ilustración. La cantidad de movimiento es mesurado. Este es un gran ejemplo de uso del parallax con restricción e intención.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts-images/alice-lee.png&quot; alt=&quot;Alice Lee&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No todas las animaciones de paralaje tienen que hacer grandes gestos en la pantalla. También hemos visto aplicaciones más sutiles. En este diseño web para &lt;a href=&quot;https://gmeadow.com/&quot;&gt;Green Meadow&lt;/a&gt;, casi se podría perder este efecto por completo. Pero esta suave revelación de texto crea una yuxtaposición suficiente para llamar la atención sobre cada bloque de texto tal como aparece.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts-images/green-meadow.png&quot; alt=&quot;Green Meadow&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Este año esperamos ver el desplazamiento de paralaje utilizado sutilmente, no para un efecto llamativo, sino como una herramienta para enfatizar o resaltar partes importantes del contenido.&lt;/p&gt;
+
+&lt;h2 id=&quot;desplazamiento-horizontal&quot;&gt;Desplazamiento horizontal&lt;/h2&gt;
+
+&lt;p&gt;Anteriormente considerado como un paso en falso del diseño web, el desplazamiento horizontal está regresando.&lt;/p&gt;
+
+&lt;p&gt;Vemos que más diseñadores web continúan experimentando con el desplazamiento horizontal. Quienes lo hacen mejor rompen el patrón no por ser diferentes sino como una forma práctica de revelar información secundaria de forma progresiva, como en una galería de imágenes.&lt;/p&gt;
+
+&lt;p&gt;Los diseñadores que empleen el desplazamiento horizontal con éxito en 2021 tendrán en cuenta estas consideraciones:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No obligue a los usuarios a navegar por el contenido horizontal: permita formas alternativas de navegar, como botones de flecha con etiquetas claras&lt;/li&gt;
+  &lt;li&gt;Use señales visuales claras para indicar dónde el contenido utiliza el desplazamiento horizontal y no oculte estas señales detrás de los botones flotantes.&lt;/li&gt;
+  &lt;li&gt;Tenga en cuenta qué contenido se beneficiaría de mostrarse en un desplazamiento horizontal: una galería de fotos es un buen candidato, ya que el desplazamiento horizontal mostraría a los usuarios una pequeña vista previa y les daría la opción de ver más o seguir moviéndose hacia abajo en la página.&lt;/li&gt;
+  &lt;li&gt;Evite requerir un desplazamiento horizontal para el texto que debe leerse&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La web &lt;a href=&quot;https://rallyinteractive.com/&quot;&gt;rallyinteractive.com&lt;/a&gt; es el mejor ejemplo de webs que utilizan el desplazamineto horizontal para contarnos su historia interactia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts-images/rallyinteractive.png&quot; alt=&quot;rallyinteractive.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Es importante que nos mantengamos siempre a la vanguardia en todos los campos del desarrollo, y en el desarrollo web no debemos porder atención solo en los avances tecnologicos, hay que tener precentes las tendencias de diseño. Nos despedimos de ustedes pesperando el contenido les sea de interes y mantenganse pendiente de nuevas publicaciones.&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>Emprende en la Web</name></author><category term="Diseño Web" /><category term="Diseño" /><category term="Tendencias" /><summary type="html">Echa un vistazo a estas 21 tendencias de diseño web para 2021 que darán forma a la forma en que diseñamos y mejoramos la forma en que las personas experimentan la web.</summary></entry><entry><title type="html">Un Manifiesto de los Nativos Digitales</title><link href="https://emprende.dev/cultura%20libre/un-manifiesto-de-los-nativos-digitales/" rel="alternate" type="text/html" title="Un Manifiesto de los Nativos Digitales" /><published>2021-07-09T00:00:00-06:00</published><updated>2021-07-09T00:00:00-06:00</updated><id>https://emprende.dev/cultura%20libre/un-manifiesto-de-los-nativos-digitales</id><content type="html" xml:base="https://emprende.dev/cultura%20libre/un-manifiesto-de-los-nativos-digitales/">&lt;figure&gt;
   
 &lt;img src=&quot;/assets/posts-images/Piotr_czerski_.jpg&quot; alt=&quot;Piotr Czerski&quot; /&gt;
 
   &lt;figcaption&gt;Piotr Czerski.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Piotr Czerski, en realidad Kordian Peter Klecha (n. 1 de abril de 1981 ), poeta y escritor polaco, co-fundador de la banda Towary Zastępcze, graduado en ciencias informáticas en el Politécnico Universitario de Gdańskiej, realizó estudiós de filosofía en la Universidad de Gdańskiej.
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“No necesitamos monumentos. Necesitamos un sistema que esté a la altura de nuestras expectativas, un sistema que sea transparente y competente. Y hemos aprendido que el cambio es posible: que cada sistema que no es confortable para nosotros puede ser reemplazado y sustituido por uno nuevo, uno que sea más eficiente, más adecuado a nuestras necesidades, que de más oportunidades.” – Piotr Czerski.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Piotr Czerski, en realidad Kordian Peter Klecha (n. 1 de abril de 1981 ), poeta y escritor polaco, co-fundador de la banda Towary Zastępcze, graduado en ciencias informáticas en el Politécnico Universitario de Gdańskiej, realizó estudiós de filosofía en la Universidad de Gdańskiej.&lt;/p&gt;
 
-&lt;h2 id=&quot;nosotros-los-niños-web&quot;&gt;“Nosotros los niños web”&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“No necesitamos monumentos. Necesitamos un sistema que esté a la altura de nuestras expectativas, un sistema que sea transparente y competente. Y hemos aprendido que el cambio es posible: que cada sistema que no es confortable para nosotros puede ser reemplazado y sustituido por uno nuevo, uno que sea más eficiente, más adecuado a nuestras necesidades, que de más oportunidades.” – Piotr Czerski.
+&lt;!--more--&gt;&lt;/p&gt;
+  &lt;h2 id=&quot;nosotros-los-niños-web&quot;&gt;“Nosotros los niños web”&lt;/h2&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Probablemente no existe otra palabra que sea usada tan en exceso dentro del discurso de los medios como “generación”. Una vez traté de contar las “generaciones” que han sido proclamadas en los últimos diez años, desde el conocido artículo sobre la llamada “Generación Nada” y creo que eran tantas como doce. Todos ellos tenían algo en común: sólo existían en papel. La realidad nunca nos ha dado un solo impulso tangible, significativo e inolvidable, una experiencia común que siempre nos distinguirá de las generaciones anteriores. Lo hemos estado buscando, pero en cambio vino un cambio sustancial e inadvertido, junto con la televisión por cable, teléfonos móviles, y, sobre todo, el acceso a Internet. Es sólo hoy que podemos comprender plenamente que tanto ha cambiado durante los últimos quince años.&lt;/p&gt;
 
@@ -48,7 +122,7 @@
 
 &lt;figure&gt;
   
-&lt;img src=&quot;/assets/posts-images/content_1.jpg&quot; alt=&quot;Primavera Arabe&quot; /&gt;
+&lt;img src=&quot;/assets/posts-images/primavera.jpg&quot; alt=&quot;Primavera Arabe&quot; /&gt;
 
   &lt;figcaption&gt;Manifestaciones en Egipto.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -67,4 +141,6 @@
   &lt;li&gt;Publicado originalmente en polaco “My, dzieci sieci” por Piotr Czerski. CC-BY-SA&lt;/li&gt;
   &lt;li&gt;Traducción al inglés: Marta Szreder CC-BY-SA&lt;/li&gt;
   &lt;li&gt;Traducción del inglés al español: Geraldine Juárez CC-BY-SA&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Camilo Alvarado</name></author><category term="Cultura Libre" /><category term="Nativos Digitales" /><summary type="html">Piotr Czerski. Piotr Czerski, en realidad Kordian Peter Klecha (n. 1 de abril de 1981 ), poeta y escritor polaco, co-fundador de la banda Towary Zastępcze, graduado en ciencias informáticas en el Politécnico Universitario de Gdańskiej, realizó estudiós de filosofía en la Universidad de Gdańskiej.</summary></entry></feed>
+&lt;/ul&gt;
+
+&lt;hr /&gt;</content><author><name>Emprende en la Web</name></author><category term="Cultura Libre" /><category term="Nativos Digitales" /><summary type="html">Piotr Czerski. Piotr Czerski, en realidad Kordian Peter Klecha (n. 1 de abril de 1981 ), poeta y escritor polaco, co-fundador de la banda Towary Zastępcze, graduado en ciencias informáticas en el Politécnico Universitario de Gdańskiej, realizó estudiós de filosofía en la Universidad de Gdańskiej. “No necesitamos monumentos. Necesitamos un sistema que esté a la altura de nuestras expectativas, un sistema que sea transparente y competente. Y hemos aprendido que el cambio es posible: que cada sistema que no es confortable para nosotros puede ser reemplazado y sustituido por uno nuevo, uno que sea más eficiente, más adecuado a nuestras necesidades, que de más oportunidades.” – Piotr Czerski.</summary></entry></feed>
