@@ -799,6 +799,21 @@
   </article>
 </div>
 
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline"></h2>
+      
+        <a href="/assets/css/main.css.map" class="article-title" rel="permalink"></a>
+      
+    &lt;/h2&gt;
+    
+
+
+    
+  </article>
+</div>
+
 <h2>Posts</h2>
 
 <div class="list__item">
@@ -940,6 +955,29 @@ Piotr Czerski, en realidad Kordian Peter Klecha (n. 1 de abril de 1981 ), poeta 
 <!-- end custom footer snippets -->
 
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+<script>
+  var form = document.getElementById("my-form");
+  
+  async function handleSubmit(event) {
+    event.preventDefault();
+    var status = document.getElementById("my-form-status");
+    var data = new FormData(event.target);
+    fetch(event.target.action, {
+      method: form.method,
+      body: data,
+      headers: {
+          'Accept': 'application/json'
+      }
+    }).then(response => {
+      status.innerHTML = "¡Gracias por comunicarse, le responderemos con protitud!";
+      form.reset()
+    }).catch(error => {
+      status.innerHTML = "Oops! Hubo un problema al enviar su formulario"
+    });
+  }
+  form.addEventListener("submit", handleSubmit)
+</script>
 
 <script>
   /* ---- particles.js config ---- */
