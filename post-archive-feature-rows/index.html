@@ -816,6 +816,15 @@ Piotr Czerski, en realidad Kordian Peter Klecha (n. 1 de abril de 1981 ), poeta 
   });
 
 </script>
+<script>
+
+$(window).scroll(function() {
+  var scroll = $(window).scrollTop();
+  $("#js-hero img").css({
+    width: (100 + scroll/5) + "%"
+  })
+})
+</script>
         <hr class="gradient">
 <div class="page__footer-follow">
   <ul class="social-icons">

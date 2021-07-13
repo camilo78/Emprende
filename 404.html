@@ -447,6 +447,15 @@
   });
 
 </script>
+<script>
+
+$(window).scroll(function() {
+  var scroll = $(window).scrollTop();
+  $("#js-hero img").css({
+    width: (100 + scroll/5) + "%"
+  })
+})
+</script>
         <hr class="gradient">
 <div class="page__footer-follow">
   <ul class="social-icons">

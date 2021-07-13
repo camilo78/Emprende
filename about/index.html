@@ -267,7 +267,7 @@
           <li>Brindar el mejor asesoramiento con total transparencia</li>
         </ul>  
     </div>  
-    <div class="col-lg-6">
+    <div class="col-lg-6 hero-section" id="js-hero">
       <img src="/assets/images/agence.png" />   
     </div>  
   </div>  
@@ -473,6 +473,15 @@
     "retina_detect": true
   });
 
+</script>
+<script>
+
+$(window).scroll(function() {
+  var scroll = $(window).scrollTop();
+  $("#js-hero img").css({
+    width: (100 + scroll/5) + "%"
+  })
+})
 </script>
         <hr class="gradient">
 <div class="page__footer-follow">
