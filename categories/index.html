@@ -653,7 +653,25 @@ Piotr Czerski, en realidad Kordian Peter Klecha (n. 1 de abril de 1981 ), poeta 
   });
 
 </script>
-<script></script>
+<script>
+// Remove the transition class
+const square = document.querySelector('.square');
+square.classList.remove('square-transition');
+
+// Create the observer, same as before:
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      square.classList.add('square-transition');
+      return;
+    }
+
+    square.classList.remove('square-transition');
+  });
+});
+
+observer.observe(document.querySelector('.square-wrapper'));
+</script>
         <hr class="gradient">
 <div class="page__footer-follow">
   <ul class="social-icons">
