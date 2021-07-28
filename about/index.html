@@ -208,32 +208,6 @@
 
 
 
-  
-    
-
-
-
-<nav class="breadcrumbs">
-  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
-    
-    
-    
-      
-        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <a href="https://emprende.dev/" itemprop="item"><span itemprop="name">Inicio</span></a>
-          <meta itemprop="position" content="1" />
-        </li>
-        <span class="sep">/</span>
-      
-      
-        <li class="current">NOSOTROS</li>
-      
-    
-  </ol>
-</nav>
-
-  
-
 
 <div  role="main">
 
@@ -418,11 +392,11 @@
   </div>
   <div class="col-lg-3">
     <p class="footer-title">SERVICIOS</p>
-    <a class="a-footer" href="/services/"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Aplicaciones
+    <a class="a-footer" href="/desarrollo_web"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Aplicaciones
       Web</a><br>
     <a class="a-footer" href="/services/"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Apps Web
       Progresivas</a><br>
-    <a class="a-footer" href="/services/"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Diseño
+    <a class="a-footer" href="/web_design"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Diseño
       Web</a><br>
     <a class="a-footer" href="/services/"><i class="fas fa-chevron-right fa-fw" style="color:#47b872"></i> Rediseño
       Web</a><br>
@@ -440,6 +414,12 @@
     </div>
   </div>
 </div>
+<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
+  integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+
+
+
+
 
 <script>
   window.onscroll = function () {
@@ -450,9 +430,83 @@
     }
   };
 
+  $('a[href*="service"]').bind('click', false);
+
+
+  $(document).ready(function () {
+    var menu = '<table class="big-menu" id="big-menu" >' +
+      ' <tr>' +
+      '<td class="td-big-menu tb-head">Desarrollo Web</td>' +
+      '<td class="td-big-menu tb-head">Marketing Digital</td>' +
+      ' </tr>' +
+      ' <tr>' +
+      '<td class="td-big-menu"><a class="sub-menu-a" href="/desarrollo_web">Desarrollo de aplicaciones web</a></td>' +
+      '<td class="td-big-menu"><a class="sub-menu-a" href="#">Social Media</a></td>' +
+      '</tr>' +
+      '<tr>' +
+      '<td class="td-big-menu"><a class="sub-menu-a" href="/web_design">Diseño de sitios web</a></td>' +
+      '<td class="td-big-menu"><a class="sub-menu-a" href="#">Diseño Gráfico</a></td>' +
+      '</tr>' +
+      '<tr>' +
+      '<td class="td-big-menu"><a class="sub-menu-a" href="/rediseño_web">Rediseño web</a></td>' +
+      '<td class="td-big-menu"><a class="sub-menu-a" href="/social_media"></a></td>' +
+      '</tr>' +
+      '<tr>' +
+      '<td class="td-big-menu" style="padding-bottom:15px"><a class="sub-menu-a" href="#">Apps Web Progresivas</a></td>' +
+      '<td class="td-big-menu" style="padding-bottom:15px"><a class="sub-menu-a" href="#"></a></td>' +
+      '</tr>' +
+      '</table>';
+
+      var menu2 = '<ul class="big-menu2">' +
+  '<li class="menu-li-head"> Desarrolo Web</li>' +
+  '<li><a class="sub-menu2-a" href="/desarrollo_web">Desarrillo de Aplicaciones Web</a></li>' +
+  '<li><a class="sub-menu2-a" href="/web_design">Diseño de sitios Web</a></li>' +
+  '<li><a class="sub-menu2-a" href="#">Rediseño Web</a></li>' +
+  '<li><a class="sub-menu2-a" href="#">Apps Web Progresivas</a></li>' +
+  '<li class="menu-li-head">Marketing Digital</li>' +
+  '<li><a class="sub-menu2-a" href="#">Social Media</a></li>' +
+  '<li><a class="sub-menu2-a" href="#">Diseño Gráfico</a></li>' +
+'</ul>';
+
+
+    $('li:has( > a[href*="service"])').append($(menu));
+    $('li:has( > a[href*="service"])').append($(menu2));
+
+
+
+
+  });
+
+
+
+  $('a[href*="service"]').parent().hover(function () {
+
+
+    if ($(window).width() < 900) {
+
+      if ($('.big-menu2').is(':hidden')) {
+        $('.big-menu2').show(200);
+      } else {
+        $('.big-menu2').hide(200);
+      }
+
+    } else {
+      if ($('.big-menu').is(':hidden')) {
+        $('.big-menu').show(200);
+      } else {
+        $('.big-menu').hide(200);
+      }
+
+    }
+
+  });
+
+
+
 </script>
 
 <!-- end custom footer snippets -->
+
         <hr class="gradient">
 <div class="page__footer-follow">
   <ul class="social-icons">
